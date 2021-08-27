@@ -1,2 +1,3 @@
 # flipkart
-mobiles information
+# mobiles information
+# mobiles price predictions(webscraping and EDA)
